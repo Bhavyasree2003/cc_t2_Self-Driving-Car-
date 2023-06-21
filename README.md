@@ -24,9 +24,11 @@ The self-driving car simulation is implemented in the `self_driving_car.py` file
 1. Clone the repository:
 
    ```bash
+   
    git clone <repository URL>
 
 Install the required dependencies:
+
  pip install matplotlib
  
  Usage
