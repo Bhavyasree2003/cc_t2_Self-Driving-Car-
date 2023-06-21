@@ -3,7 +3,7 @@ CODE CLAUSE : Artificial Intellegence Intern ,TASK-2
 
 # Self-Driving Car
 
-![Self-Driving Car](car_image.jpg)
+![Self-Driving Car]
 
 This repository contains code for simulating a self-driving car using Python.
 
