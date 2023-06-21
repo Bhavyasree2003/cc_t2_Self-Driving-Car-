@@ -30,16 +30,18 @@ Install the required dependencies:
  pip install matplotlib
  
  Usage
+ ******
 Run the simulation:
 python self_driving_car.py
 This will execute the script and simulate the self-driving car. The car's position at different time intervals will be plotted using Matplotlib.
 
 Customize the simulation:
-
+**************************
 Adjust the speeds list in the code to define the speed values for the car during the simulation.
 Modify the plot settings in the code (e.g., axis labels, title, line style) to customize the visualization of the car's positions.
 
 Contributing
+************
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Please follow the guidelines outlined in the CONTRIBUTING.md file.
 
 
